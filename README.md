@@ -1,4 +1,4 @@
-![display](https://repository-images.githubusercontent.com/699158532/6c0cedb5-c8e5-404f-876d-41f93e03a8e4)
+![display](https://repository-images.githubusercontent.com/699158532/739a6a67-40b5-4eb0-8be6-989cc73c1700)
 
 This guide walks you through the process of building a Spring boot application that uses Spring Security and Spring Data JPA. Applying the new way to **configure** Spring Security without the [WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
 
@@ -256,4 +256,4 @@ Congratulations 🎉 ! You've created a Spring Security application with basic a
 The tutorial can be found here on [GitHub](https://github.com/nonestack-blog/spring-security-basic-authentication) 👋
 
 ## Blog
-Check new tutorials on [nonestack](https://nonestack.com) 👋
+Check new tutorials on [nonestack](https://wwww.nonestack.com) 👋
