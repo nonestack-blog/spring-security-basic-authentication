@@ -190,7 +190,7 @@ INSERT INTO USERS (FIRST_NAME, LAST_NAME, USERNAME, PASSWORD) VALUES
 
 When running the application, by default the `data.sql` will be executed before the entity creation into the database, to prevent that add the following property under the `application.properties`
 
-```conf
+```properties
 spring.jpa.defer-datasource-initialization=true
 ```
 
