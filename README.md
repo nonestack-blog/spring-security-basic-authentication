@@ -1,6 +1,6 @@
 ![display](https://repository-images.githubusercontent.com/699158532/6c0cedb5-c8e5-404f-876d-41f93e03a8e4)
 
-This guide walks you through the process of building a Spring boot 2 application that uses Spring Security and Spring Data JPA. Applying the new way to **configure** Spring Security without the [WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
+This guide walks you through the process of building a Spring boot application that uses Spring Security and Spring Data JPA. Applying the new way to **configure** Spring Security without the [WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
 
 ## What You Will build
 You will build a Spring Boot application with Spring Security basic authentication and Spring Data Jpa for managing the users.
@@ -250,7 +250,7 @@ http://localhost:8080/secured
 ```
 ## Summary
 
-Congratulations 🎉 ! You've created a Spring Security application with basic authentication using Spring Boot 2 & JPA
+Congratulations 🎉 ! You've created a Spring Security application with basic authentication using Spring Boot & Spring Data JPA
 
 ## Github
 The tutorial can be found here on [GitHub](https://github.com/nonestack-blog/spring-security-basic-authentication) 👋
