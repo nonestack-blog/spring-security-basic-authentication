@@ -1,4 +1,4 @@
-![display](https://repository-images.githubusercontent.com/699158532/4da91ef5-1163-46ea-bd20-333cf2a0a27b)
+![display](https://repository-images.githubusercontent.com/699158532/6c0cedb5-c8e5-404f-876d-41f93e03a8e4)
 
 This guide walks you through the process of building a Spring boot 2 application that uses Spring Security and Spring Data JPA. Applying the new way to **configure** Spring Security without the [WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
 
