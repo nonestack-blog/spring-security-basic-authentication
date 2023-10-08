@@ -256,4 +256,4 @@ Congratulations 🎉 ! You've created a Spring Security application with basic a
 The tutorial can be found here on [GitHub](https://github.com/nonestack-blog/spring-security-basic-authentication) 👋
 
 ## Blog
-Check new tutorials on [nonestack](https://wwww.nonestack.com) 👋
+Check new tutorials on [nonestack](https://www.nonestack.com) 👋
