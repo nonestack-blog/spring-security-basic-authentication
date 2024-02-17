@@ -2,15 +2,15 @@
 
 This guide walks you through the process of building a Spring boot application that uses Spring Security and Spring Data JPA. Applying the new way to **configure** Spring Security without the [WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
 
-## What You Will build
+## <a name="what-you-will-build" aria-label="what-you-will-build" id="what-you-will-build" href="#what-you-will-build"></a>What You Will build
 You will build a Spring Boot application with Spring Security basic authentication and Spring Data Jpa for managing the users.
 
-## What You Need
+## <a name="what-you-need" aria-label="what-you-need" id="what-you-need" href="#what-you-need"></a>What You Need
 - A favorite text editor or IDE
 - JDK 1.8 or later
 - Gradle 4+ or Maven 3.2+
 
-## Setup Project With Spring Initializr   
+## <a name="setup-project-with-spring-initializr" aria-label="setup-project-with-spring-initializr" id="setup-project-with-spring-initializr" href="#setup-project-with-spring-initializr"></a>Setup Project With Spring Initializr
 
 - Navigate to https://start.spring.io
 
@@ -29,7 +29,7 @@ You will build a Spring Boot application with Spring Security basic authenticati
 Unzip the Downloaded Zip and open the Project using your favorite text editor or IDE
 
 
-## Start the implementation
+## <a name="start-the-implementation" aria-label="start-the-implementation" id="start-the-implementation" href="#start-the-implementation"></a>Start the implementation
 Define the User Entity, implement the **UserDetails** interface and override the implemented methods
 ```java
 @Entity(name = "users")
@@ -194,7 +194,7 @@ When running the application, by default the `data.sql` will be executed before 
 spring.jpa.defer-datasource-initialization=true
 ```
 
-## Testing
+## <a name="testing" aria-label="testing" id="testing" href="#testing"></a>Testing
 
 Write some test cases to check that the uri  **/secured** is working as expected
  - Test 1 : check with correct credentials
@@ -230,7 +230,7 @@ public class SpringBootSecurityBasicAuthApplicationTests {
 
 }
 ```
-## Run The Application
+## <a name="run-the-application" aria-label="run-the-application" id="run-the-application" href="#run-the-application"></a>Run The Application
 
 Run the Java application as a `SpringBootApplication` with your IDE or use the following command line
 
@@ -248,12 +248,12 @@ When you access the secured URI **/secured**, a prompt shows up pass in the user
 ```
 http://localhost:8080/secured
 ```
-## Summary
+## <a name="summary" aria-label="summary" id="summary" href="#summary"></a>Summary
 
 Congratulations 🎉 ! You've created a Spring Security application with basic authentication using Spring Boot & Spring Data JPA
 
-## Github
+## <a name="github" aria-label="github" id="github" href="#github"></a>Github
 The tutorial can be found here on [GitHub](https://github.com/nonestack-blog/spring-security-basic-authentication) 👋
 
-## Blog
+## <a name="blog" aria-label="blog" id="blog" href="#blog"></a>Blog
 Check new tutorials on [nonestack](https://www.nonestack.com) 👋
