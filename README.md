@@ -12,9 +12,8 @@ You will build a Spring Boot application with Spring Security basic authenticati
 
 ## <a name="setup-project-with-spring-initializr" aria-label="setup-project-with-spring-initializr" id="setup-project-with-spring-initializr" href="#setup-project-with-spring-initializr"></a>Setup Project With Spring Initializr
 
-- Navigate to https://start.spring.io
-
-- define the project name example: `spring-boot-security-basic-auth`
+- Navigate to [Spring initializr](https://start.spring.io).
+- Define the project name example: `spring-boot-security-basic-auth`
 - Choose Project **Maven** and the language  **Java**.
 - Choose Your **Java** version ex: **17**
 - Click add dependencies and select:
